@@ -9,3 +9,6 @@ The idea is smple:
 
 The goal of the tool is to provide a simple CAGR for typical buy and hold investments. Why? Because total gain/loss % is not accounting for the time value of money. This obfuscates the actual performance of buy and hold investments.
 When securities are disposed of, this affects the CAGR as those lots sold will be now removed from the weighted average.
+
+Attribution is optional but appreciated. See [ATTRIBUTION.md] for details.
+
